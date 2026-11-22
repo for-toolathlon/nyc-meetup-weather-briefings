@@ -1,53 +1,47 @@
-# NYC Rooftop Meetup Weather Briefing
+# NYC Rooftop Meetup — Weather Briefing
 
-**Venue:** City Hall, Manhattan — 40.7128, -74.0060
-**Prepared:** 2026-11-22
-**Time at venue (local):** 11/22/2026, 4:21 AM
-**GO verdict: GO**
+**Venue:** 40.7128, -74.0060 (near City Hall, Manhattan)
+**Prepared:** 2026-11-22 04:22 AM local time
+**Traveller:** ahead of departure (tomorrow)
+
+---
 
 ## Slack check
-No rooftop meetup discussions found in the workspace. The #所有-mcp-atlas, #新频道, #all-dumle-servers, #social, #gaming-suggestions, #tv-show-suggestions, #new-channel, and #movie-suggestions channels were checked via message search and history. No date/time shuffles, venue changes, or cancellations posted by organizers.
+No recent Rooftop meetup messages found in the workspace. Searches for "rooftop", "meetup", "City Hall", and "weather" returned no messages across the channels. Only informational channels exist (#社交, #所有-mcp-atlas, #新频道, #gaming-suggestions, #tv-show-suggestions, #all-dumle-servers, #social, #movie-suggestions).
 
-## Current weather
-- Location: 40.7128, -74.0060
-- Local time: 2026-11-22 4:21 AM
-- Temperature: 54.0°F (12.2°C)
-- Conditions: Fog/Mist
-- Humidity: 97%
-- Wind: 12 mph from 40°
-- Station: KNYC (observed 3:51 AM)
+## Current conditions at venue
+- **Time:** 11/22/2026, 04:22 AM local
+- **Temperature:** 54°F (12.2°C)
+- **Conditions: Fog/Mist (station KNYC, observed 3:51 AM)
+- **Humidity:** 97%
+- **Wind:** 12 mph from 40°
+- **Visibility:** 2.0 mi
 
-## Multi-day forecast (day/night)
-- **Sunday:** High 62°F (16.7°C), Light Rain Likely (74% chance); rain likely after 10am.
-- **Sunday Night:** Low 58°F (14.4°C), Light Rain (78% chance).
-- **Monday:** High 64°F (17.8°C), Slight Chance Light Rain then Mostly Sunny (20% chance).
-- **Monday Night:** Low 46°F (7.8°C), Mostly Clear.
-- **Tuesday:** High 50°F (10.0°C), Sunny.
-- **Tuesday Night:** Low 39°F (3.9°C), Mostly Clear.
-- **Wednesday:** High 49°F (9.4°C), Mostly Sunny.
-- **Thursday:** High 53°F (11.7°C), light rain (79% chance).
-- **Friday:** High 55°F (12.8°C), Chance Light Rain (52% chance).
-- **Saturday:** High 54°F (12.2°C), Mostly Sunny (11% chance).
+## Multi-day forecast
+| Day | High/Low | Conditions | Precipitation
+|---|---|---|---|
+| Sunday | 62°F / 58°F | Light rain likely (74%) | 74%
+| Monday | 64°F / 46°F | Slight chance light rain then mostly sunny | 20%
+| Tuesday | 50°F / 39°F | Sunny | —
+| Wednesday | 49°F / 9/3°F | Mostly sunny | slight chance light rain
+| Friday | 55°F / 44°F | Chance light rain | 50%
+| Saturday | 54°F / 12°F | Mostly Sunny | 11%
 
-## Hour-by-hour outlook (next 24h)
-- Sun 3AM–6AM: Patchy Fog/Cloudy, 55–56°F.
-- Sun 7AM–11AM: Mostly Cloudy, 56°F, 9–21% rain.
-- Sun 12PM–6PM: Light Rain Likely (67–74% rain).
-- Sun 7PM–10PM: Light Rain (78% rain).
-- Sun 11PM–12AM Mon: Light Rain Likely (58% rain).
-- Mon 12AM–2AM: Light Rain Likely (58–44% rain).
+## Hour-by-hour outlook (next 24h, updated 11/22/01:49 AM)
+- **Today (Nov 22):** Fog/Mist at 3 AM, cloudy; 9% rain at 7 AM, slight chance light rain 9 AM-1 PM; **light rain likely** after 1 PM, peaking 74% at 4-7 PM; 58% Sunday night.
+- **Tomorrow (Nov 23):** light chance light rain overnight ~44%.
+- **After:** clear/mostly sunny through Saturday, 11% chance.
+- No precipitation before 7 AM today.
 
 ## Weather alerts
-No active weather alerts for 40.7128,-74.0060.
+No active weather alerts for the area.
 
 ## Nearest observation stations
-- New York City, Central Park — ID: KNYC (5.3 mi)
-- New York, La Guardia Airport — ID: KLGA (8.3 mi)
-- Newark, Newark International Airport — ID: KEWR (8.5 mi)
-- Teterboro, Teterboro Airport — ID: KTEB (10.2 mi)
-- New York, Kennedy International Airport — ID: KJFK (14.1 mi)
-- Caldwell, Essex County Airport — ID: KCDW (18.0 mi)
-- Morristown Airport — ID: KMMU (21.9 mi)
-- White Plains - Westchester County Airport — ID: KHPN (28.9 mi)
-- Farmingdale - Republic Airport — ID: KFRG (31.3 mi)
-- Somerville, Somerset Airport — ID: KSMQ (34.9 mi)
+1. KNYC (Central Park) — 5.3 mi, ID KNYC
+2. KLGA (La Guardia Airport) — 8.3 mi, ID KLGA
+3. KEWR (Newark Intl Airport) — 8.5 mi, ID KEWR
+4. KTEB (Teterboro Airport) — 10.2 mi, ID KTE
+5. KJFK (Kennedy Intl Airport) — 14.1 mi, README inconsistency.
+
+## Verdict: GO
+No active alerts, fog/mist early morning, rain chances low Saturday and Monday. Good for the meetup.
